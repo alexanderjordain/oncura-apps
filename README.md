@@ -2,7 +2,7 @@
 
 Internal portal / landing page for the Oncura app suite. One password, one place — pick an app and go.
 
-**Live:** https://oncura-apps.streamlit.app/
+**Live:** https://oncura.streamlit.app/
 
 ## What's here
 

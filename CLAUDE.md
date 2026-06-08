@@ -26,7 +26,7 @@ Each entry: `{id, timestamp, initials, event, app?, note, entry_hash}`. Hash is 
 ## Deploy
 
 - **Repo**: github.com/alexanderjordain/oncura-apps
-- **Live**: https://oncura-apps.streamlit.app/
+- **Live**: https://oncura.streamlit.app/
 - **Secrets** (Streamlit Cloud → Settings → Secrets):
   ```toml
   APP_PASSWORD = "..."   # same as oncura-programs
